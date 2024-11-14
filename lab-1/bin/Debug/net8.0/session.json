@@ -1,0 +1,20 @@
+[
+  {
+    "StepNumber": 1,
+    "Operation": "Initial",
+    "Operand": 4,
+    "Result": 4
+  },
+  {
+    "StepNumber": 2,
+    "Operation": "-",
+    "Operand": 2,
+    "Result": 2
+  },
+  {
+    "StepNumber": 3,
+    "Operation": "\u002B",
+    "Operand": 5,
+    "Result": 7
+  }
+]

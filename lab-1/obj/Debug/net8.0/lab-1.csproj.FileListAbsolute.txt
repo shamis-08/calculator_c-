@@ -1,0 +1,14 @@
+/Users/alenashamis/RiderProjects/lab-1/lab-1/bin/Debug/net8.0/lab-1
+/Users/alenashamis/RiderProjects/lab-1/lab-1/bin/Debug/net8.0/lab-1.deps.json
+/Users/alenashamis/RiderProjects/lab-1/lab-1/bin/Debug/net8.0/lab-1.runtimeconfig.json
+/Users/alenashamis/RiderProjects/lab-1/lab-1/bin/Debug/net8.0/lab-1.dll
+/Users/alenashamis/RiderProjects/lab-1/lab-1/bin/Debug/net8.0/lab-1.pdb
+/Users/alenashamis/RiderProjects/lab-1/lab-1/obj/Debug/net8.0/lab-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenashamis/RiderProjects/lab-1/lab-1/obj/Debug/net8.0/lab-1.AssemblyInfoInputs.cache
+/Users/alenashamis/RiderProjects/lab-1/lab-1/obj/Debug/net8.0/lab-1.AssemblyInfo.cs
+/Users/alenashamis/RiderProjects/lab-1/lab-1/obj/Debug/net8.0/lab-1.csproj.CoreCompileInputs.cache
+/Users/alenashamis/RiderProjects/lab-1/lab-1/obj/Debug/net8.0/lab-1.dll
+/Users/alenashamis/RiderProjects/lab-1/lab-1/obj/Debug/net8.0/refint/lab-1.dll
+/Users/alenashamis/RiderProjects/lab-1/lab-1/obj/Debug/net8.0/lab-1.pdb
+/Users/alenashamis/RiderProjects/lab-1/lab-1/obj/Debug/net8.0/lab-1.genruntimeconfig.cache
+/Users/alenashamis/RiderProjects/lab-1/lab-1/obj/Debug/net8.0/ref/lab-1.dll
